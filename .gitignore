@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+build/
+
+# Version snapshots (large JSON)
+versions/*/full_scan.json
+archives/*.zip
+
+# Binaries
+*.apk
+*.xapk
+*.jar
+*.dex
+
+# OS
+.DS_Store
+Thumbs.db
