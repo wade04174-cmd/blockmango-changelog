@@ -1,5 +1,7 @@
 # BlockmanGO Changelog Tracker
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/bVgjq6)
+
 Reverse-engineered APK changelog tracking for [BlockmanGO](https://play.google.com/store/apps/details?id=com.sandboxol.blockymods) (com.sandboxol.blockymods). Tracks every update by scanning 22 categories of data and generating structured diffs.
 
 > **Latest tracked: v3.21.1** (build 5671) — APK doubled to 200 MB, NetEase anti-tamper wrapper added.
