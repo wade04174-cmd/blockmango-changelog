@@ -1,0 +1,100 @@
+{
+  "by_action": {
+    "io.appmetrica.analytics.IAppMetricaService": [
+      "io.appmetrica.analytics.internal.AppMetricaService"
+    ],
+    "com.google.firebase.MESSAGING_EVENT": [
+      "com.sandboxol.imchat.server.SandboxFirebaseMessagingService",
+      "com.google.firebase.messaging.FirebaseMessagingService"
+    ],
+    "com.google.android.exoplayer.downloadService.action.RESTART": [
+      "com.chartboost.sdk.internal.video.repository.exoplayer.VideoRepositoryDownloadService"
+    ],
+    "androidx.profileinstaller.action.INSTALL_PROFILE": [
+      "androidx.profileinstaller.ProfileInstallReceiver"
+    ],
+    "androidx.profileinstaller.action.SKIP_FILE": [
+      "androidx.profileinstaller.ProfileInstallReceiver"
+    ],
+    "androidx.profileinstaller.action.SAVE_PROFILE": [
+      "androidx.profileinstaller.ProfileInstallReceiver"
+    ],
+    "androidx.profileinstaller.action.BENCHMARK_OPERATION": [
+      "androidx.profileinstaller.ProfileInstallReceiver"
+    ],
+    "android.intent.action.ACTION_POWER_CONNECTED": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+    ],
+    "android.intent.action.ACTION_POWER_DISCONNECTED": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+    ],
+    "io.rong.push.intent.MESSAGE_ARRIVED": [
+      "com.sandboxol.blockymods.receiver.RongCloudPushMessageReceiver"
+    ],
+    "io.rong.push.intent.MI_MESSAGE_ARRIVED": [
+      "com.sandboxol.blockymods.receiver.RongCloudPushMessageReceiver"
+    ],
+    "io.rong.push.intent.MESSAGE_CLICKED": [
+      "com.sandboxol.blockymods.receiver.RongCloudPushMessageReceiver"
+    ],
+    "io.rong.push.intent.MI_MESSAGE_CLICKED": [
+      "com.sandboxol.blockymods.receiver.RongCloudPushMessageReceiver"
+    ],
+    "android.net.conn.CONNECTIVITY_CHANGE": [
+      "com.mbridge.msdk.foundation.same.broadcast.NetWorkChangeReceiver",
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+    ],
+    "android.intent.action.DEVICE_STORAGE_LOW": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+    ],
+    "android.intent.action.DEVICE_STORAGE_OK": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+    ],
+    "androidx.work.diagnostics.REQUEST_DIAGNOSTICS": [
+      "androidx.work.impl.diagnostics.DiagnosticsReceiver"
+    ],
+    "android.intent.action.BOOT_COMPLETED": [
+      "androidx.work.impl.background.systemalarm.RescheduleReceiver"
+    ],
+    "android.intent.action.TIME_SET": [
+      "androidx.work.impl.background.systemalarm.RescheduleReceiver"
+    ],
+    "android.intent.action.TIMEZONE_CHANGED": [
+      "androidx.work.impl.background.systemalarm.RescheduleReceiver"
+    ],
+    "com.google.android.c2dm.intent.RECEIVE": [
+      "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+    ],
+    "android.intent.action.BATTERY_OKAY": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+    ],
+    "android.intent.action.BATTERY_LOW": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+    ],
+    "com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED": [
+      "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+    ],
+    "com.twitter.sdk.android.tweetcomposer.UPLOAD_SUCCESS": [
+      "com.sandboxol.oversea.utils.TwitterResultReceiver"
+    ],
+    "com.twitter.sdk.android.tweetcomposer.UPLOAD_FAILURE": [
+      "com.sandboxol.oversea.utils.TwitterResultReceiver"
+    ],
+    "com.twitter.sdk.android.tweetcomposer.TWEET_COMPOSE_CANCEL": [
+      "com.sandboxol.oversea.utils.TwitterResultReceiver"
+    ],
+    "com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED": [
+      "com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+    ],
+    "androidx.work.impl.background.systemalarm.UpdateProxies": [
+      "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+    ]
+  },
+  "by_scheme": {},
+  "by_category": {
+    "android.intent.category.DEFAULT": [
+      "io.appmetrica.analytics.internal.AppMetricaService",
+      "com.chartboost.sdk.internal.video.repository.exoplayer.VideoRepositoryDownloadService"
+    ]
+  }
+}

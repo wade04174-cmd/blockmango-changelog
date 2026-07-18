@@ -1,0 +1,18 @@
+{
+  "package": "com.sandboxol.blockymods",
+  "version_name": "3.20.3",
+  "version_code": "5663",
+  "min_sdk": "23",
+  "target_sdk": "35",
+  "effective_sdk": 35,
+  "application_class": "com.netease.nis.wrapper.MyApplication",
+  "app_label": "@7F130128",
+  "debuggable": false,
+  "allow_backup": false,
+  "network_security_config": true,
+  "uses_cleartext_traffic": true,
+  "theme": "@7F14001A",
+  "icon": "@7F1003CE",
+  "features": [],
+  "main_activity": "com.sandboxol.blockymods.view.activity.flash.SplashActivity"
+}

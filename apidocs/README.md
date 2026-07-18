@@ -18,6 +18,21 @@ Public documentation for the BlockmanGO (BlockyMods) REST API, reverse-engineere
 
 ---
 
+## Cross-References
+
+| I need... | Look in |
+|-----------|---------|
+| API endpoint params/response shape | [`api-reference.md`](api-reference.md) |
+| Request signing algorithm | [`authentication.md`](authentication.md) |
+| Game ID lookup | [`games.md`](games.md) |
+| Data model definitions | [`models.md`](models.md) |
+| Version-specific API changes | [`../reports/`](../reports/) — diff reports show endpoints added/removed per version |
+| Discovered endpoints in APK | [`../versions/v3.21.1_build5671/api_endpoints.json`](../versions/v3.21.1_build5671/api_endpoints.json) |
+| All URLs/IPs in the APK | [`../versions/v3.21.1_build5671/strings.json`](../versions/v3.21.1_build5671/strings.json) |
+| Security findings | [`security.md`](security.md) |
+
+---
+
 ## Overview
 
 BlockmanGO (package: `com.sandboxol.blockymods`) is a sandbox multiplayer game platform. The API is a REST-based service hosted on `gw.sandboxol.com` with:
@@ -81,6 +96,7 @@ client.close()
 | `di.sandboxol.com` | Analytics/Event Tracking | HTTP |
 | `staticgs.sandboxol.com` | CDN Static Assets | HTTPS |
 | `static.sandboxol.com` | CDN Static Assets | HTTPS |
+| `ca.turing.captcha.qcloud.com` | Tencent CAPTCHA | HTTPS |
 | Game Servers | Direct game communication | HTTP |
 
 ## Games Supported

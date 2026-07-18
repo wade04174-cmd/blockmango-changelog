@@ -1,0 +1,130 @@
+{
+  "count": 25,
+  "files": [
+    {
+      "index": 0,
+      "class_count": 45,
+      "name": "classes1.dex"
+    },
+    {
+      "index": 1,
+      "class_count": 2502,
+      "name": "classes2.dex"
+    },
+    {
+      "index": 2,
+      "class_count": 4873,
+      "name": "classes3.dex"
+    },
+    {
+      "index": 3,
+      "class_count": 5801,
+      "name": "classes4.dex"
+    },
+    {
+      "index": 4,
+      "class_count": 1674,
+      "name": "classes5.dex"
+    },
+    {
+      "index": 5,
+      "class_count": 8767,
+      "name": "classes6.dex"
+    },
+    {
+      "index": 6,
+      "class_count": 4952,
+      "name": "classes7.dex"
+    },
+    {
+      "index": 7,
+      "class_count": 785,
+      "name": "classes8.dex"
+    },
+    {
+      "index": 8,
+      "class_count": 513,
+      "name": "classes9.dex"
+    },
+    {
+      "index": 9,
+      "class_count": 296,
+      "name": "classes10.dex"
+    },
+    {
+      "index": 10,
+      "class_count": 3000,
+      "name": "classes11.dex"
+    },
+    {
+      "index": 11,
+      "class_count": 4135,
+      "name": "classes12.dex"
+    },
+    {
+      "index": 12,
+      "class_count": 8800,
+      "name": "classes13.dex"
+    },
+    {
+      "index": 13,
+      "class_count": 10757,
+      "name": "classes14.dex"
+    },
+    {
+      "index": 14,
+      "class_count": 10227,
+      "name": "classes15.dex"
+    },
+    {
+      "index": 15,
+      "class_count": 1956,
+      "name": "classes16.dex"
+    },
+    {
+      "index": 16,
+      "class_count": 1067,
+      "name": "classes17.dex"
+    },
+    {
+      "index": 17,
+      "class_count": 3834,
+      "name": "classes18.dex"
+    },
+    {
+      "index": 18,
+      "class_count": 4101,
+      "name": "classes19.dex"
+    },
+    {
+      "index": 19,
+      "class_count": 4569,
+      "name": "classes20.dex"
+    },
+    {
+      "index": 20,
+      "class_count": 9961,
+      "name": "classes21.dex"
+    },
+    {
+      "index": 21,
+      "class_count": 2278,
+      "name": "classes22.dex"
+    },
+    {
+      "index": 22,
+      "class_count": 1042,
+      "name": "classes23.dex"
+    },
+    {
+      "index": 23,
+      "class_count": 3435,
+      "name": "classes24.dex"
+    },
+    {
+      "index": 24,
+      "class_count": 4026,
+      "name": "classes25.dex"
+    }
+  ]
+}

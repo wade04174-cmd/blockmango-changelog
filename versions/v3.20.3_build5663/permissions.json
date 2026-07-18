@@ -1,0 +1,244 @@
+{
+  "requested": [
+    "android.permission.ACCESS_ADSERVICES_AD_ID",
+    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+    "android.permission.ACCESS_ADSERVICES_TOPICS",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.CAMERA",
+    "android.permission.CAPTURE_VIDEO_OUTPUT",
+    "android.permission.CHANGE_WIFI_STATE",
+    "android.permission.FOREGROUND_SERVICE",
+    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+    "android.permission.GET_TASKS",
+    "android.permission.INTERNET",
+    "android.permission.KILL_BACKGROUND_PROCESSES",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.POST_NOTIFICATIONS",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.UPDATE_D",
+    "android.permission.VIBRATE",
+    "android.permission.WAKE_LOCK",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.WRITE_INTERNAL_STORAGE",
+    "android.permission.WRITE_SETTINGS",
+    "com.android.vending.BILLING",
+    "com.google.android.c2dm.permission.RECEIVE",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+    "com.google.android.gms.permission.AD_ID",
+    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+    "com.sandboxol.blockymods.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+    "com.sandboxol.blockymods.permission.RONG_ACCESS_RECEIVER",
+    "com.sandboxol.blockymods.permission.RONG_BRIDGE_ACTIVITY",
+    "com.sandboxol.blockymods.sp"
+  ],
+  "declared": [
+    "com.sandboxol.blockymods.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+    "com.sandboxol.blockymods.permission.RONG_ACCESS_RECEIVER",
+    "com.sandboxol.blockymods.permission.RONG_BRIDGE_ACTIVITY"
+  ],
+  "dangerous": [
+    "android.permission.CAMERA",
+    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+    "android.permission.POST_NOTIFICATIONS",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.WRITE_INTERNAL_STORAGE"
+  ],
+  "normal": [
+    "android.permission.ACCESS_ADSERVICES_AD_ID",
+    "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+    "android.permission.ACCESS_ADSERVICES_TOPICS",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.CAPTURE_VIDEO_OUTPUT",
+    "android.permission.CHANGE_WIFI_STATE",
+    "android.permission.FOREGROUND_SERVICE",
+    "android.permission.GET_TASKS",
+    "android.permission.INTERNET",
+    "android.permission.KILL_BACKGROUND_PROCESSES",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.UPDATE_D",
+    "android.permission.VIBRATE",
+    "android.permission.WAKE_LOCK",
+    "android.permission.WRITE_SETTINGS"
+  ],
+  "custom": [
+    "com.android.vending.BILLING",
+    "com.google.android.c2dm.permission.RECEIVE",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+    "com.google.android.gms.permission.AD_ID",
+    "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+    "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+    "com.sandboxol.blockymods.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+    "com.sandboxol.blockymods.permission.RONG_ACCESS_RECEIVER",
+    "com.sandboxol.blockymods.permission.RONG_BRIDGE_ACTIVITY",
+    "com.sandboxol.blockymods.sp"
+  ],
+  "total": 35,
+  "dangerous_count": 9,
+  "details": [
+    {
+      "permission": "android.permission.ACCESS_ADSERVICES_AD_ID",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.ACCESS_ADSERVICES_TOPICS",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.ACCESS_NETWORK_STATE",
+      "risk": "normal",
+      "grants": "Network state"
+    },
+    {
+      "permission": "android.permission.ACCESS_WIFI_STATE",
+      "risk": "normal",
+      "grants": "Network state"
+    },
+    {
+      "permission": "android.permission.CAMERA",
+      "risk": "dangerous",
+      "grants": "Camera access"
+    },
+    {
+      "permission": "android.permission.CAPTURE_VIDEO_OUTPUT",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.CHANGE_WIFI_STATE",
+      "risk": "normal",
+      "grants": "Network state"
+    },
+    {
+      "permission": "android.permission.FOREGROUND_SERVICE",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+      "risk": "dangerous",
+      "grants": "File/media access"
+    },
+    {
+      "permission": "android.permission.GET_TASKS",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.INTERNET",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.KILL_BACKGROUND_PROCESSES",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.MODIFY_AUDIO_SETTINGS",
+      "risk": "normal",
+      "grants": "Microphone access"
+    },
+    {
+      "permission": "android.permission.POST_NOTIFICATIONS",
+      "risk": "dangerous",
+      "grants": "Notification access"
+    },
+    {
+      "permission": "android.permission.READ_EXTERNAL_STORAGE",
+      "risk": "dangerous",
+      "grants": "File/media access"
+    },
+    {
+      "permission": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+      "risk": "dangerous",
+      "grants": "File/media access"
+    },
+    {
+      "permission": "android.permission.READ_PHONE_STATE",
+      "risk": "dangerous",
+      "grants": "Phone state access"
+    },
+    {
+      "permission": "android.permission.RECORD_AUDIO",
+      "risk": "dangerous",
+      "grants": "Microphone access"
+    },
+    {
+      "permission": "android.permission.UPDATE_D",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.VIBRATE",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.WAKE_LOCK",
+      "risk": "normal"
+    },
+    {
+      "permission": "android.permission.WRITE_EXTERNAL_STORAGE",
+      "risk": "dangerous",
+      "grants": "File/media access"
+    },
+    {
+      "permission": "android.permission.WRITE_INTERNAL_STORAGE",
+      "risk": "dangerous",
+      "grants": "File/media access"
+    },
+    {
+      "permission": "android.permission.WRITE_SETTINGS",
+      "risk": "normal"
+    },
+    {
+      "permission": "com.android.vending.BILLING",
+      "risk": "custom",
+      "grants": "In-app purchases"
+    },
+    {
+      "permission": "com.google.android.c2dm.permission.RECEIVE",
+      "risk": "custom",
+      "grants": "Push notifications"
+    },
+    {
+      "permission": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.google.android.gms.permission.AD_ID",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.sandboxol.blockymods.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.sandboxol.blockymods.permission.RONG_ACCESS_RECEIVER",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.sandboxol.blockymods.permission.RONG_BRIDGE_ACTIVITY",
+      "risk": "custom"
+    },
+    {
+      "permission": "com.sandboxol.blockymods.sp",
+      "risk": "custom"
+    }
+  ]
+}

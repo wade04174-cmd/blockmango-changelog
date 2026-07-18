@@ -1,0 +1,27 @@
+{
+  "project": "blockmango-changelog",
+  "description": "Reverse-engineered BlockmanGO APK version tracking. Structured JSON data extracted from every version — 22 categories, machine-readable, diffable.",
+  "package": "com.sandboxol.blockymods",
+  "latest_version": "3.20.3",
+  "latest_build": 5663,
+  "scanner_version": "1.0.0",
+  "versions": [
+    {
+      "version": "3.20.3",
+      "build": 5663,
+      "size_mb": 118.3,
+      "min_sdk": 23,
+      "target_sdk": 35,
+      "path": "v3.20.3_build5663",
+      "snapshot": true,
+      "scan_date": "2026-07-18",
+      "key_stats": {
+        "strings": 426127,
+        "api_endpoints": 789,
+        "activities": 235,
+        "permissions": 35
+      }
+    }
+  ],
+  "diff_reports": {}
+}

@@ -1,0 +1,331 @@
+{
+  "total": 10050,
+  "by_type": {
+    "drawable": {
+      "count": 5208,
+      "sample": [
+        "res/drawable-anydpi-v21/chartboost_monetization_default_icon_background.xml",
+        "res/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "res/drawable-anydpi-v21/exo_ic_audiotrack.xml",
+        "res/drawable-anydpi-v21/exo_ic_check.xml",
+        "res/drawable-anydpi-v21/exo_ic_chevron_left.xml",
+        "res/drawable-anydpi-v21/exo_ic_chevron_right.xml",
+        "res/drawable-anydpi-v21/exo_ic_default_album_image.xml",
+        "res/drawable-anydpi-v21/exo_ic_forward.xml",
+        "res/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml",
+        "res/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml",
+        "res/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml",
+        "res/drawable-anydpi-v21/exo_ic_play_circle_filled.xml",
+        "res/drawable-anydpi-v21/exo_ic_rewind.xml",
+        "res/drawable-anydpi-v21/exo_ic_settings.xml",
+        "res/drawable-anydpi-v21/exo_ic_skip_next.xml",
+        "res/drawable-anydpi-v21/exo_ic_skip_previous.xml",
+        "res/drawable-anydpi-v21/exo_ic_speed.xml",
+        "res/drawable-anydpi-v21/exo_ic_subtitle_off.xml",
+        "res/drawable-anydpi-v21/exo_ic_subtitle_on.xml",
+        "res/drawable-anydpi-v21/exo_icon_fastforward.xml"
+      ]
+    },
+    "layout": {
+      "count": 2284,
+      "sample": [
+        "res/layout-land/activity_auth_confirm.xml",
+        "res/layout-land/activity_game_custom_room_alert_dialog.xml",
+        "res/layout-land/activity_mining_store.xml",
+        "res/layout-land/base_dialog_reward_introduce.xml",
+        "res/layout-land/base_dialog_scrap_reward_desc.xml",
+        "res/layout-land/bottom_dialog_payment.xml",
+        "res/layout-land/community_dialog_fllow_community.xml",
+        "res/layout-land/dialog_acquisition_list_common.xml",
+        "res/layout-land/dialog_check_gcube_enough.xml",
+        "res/layout-land/dialog_code_verify.xml",
+        "res/layout-land/dialog_common_event_desc.xml",
+        "res/layout-land/dialog_dress_preview.xml",
+        "res/layout-land/dialog_dress_preview_common.xml",
+        "res/layout-land/dialog_dress_preview_new.xml",
+        "res/layout-land/dialog_dress_preview_store.xml",
+        "res/layout-land/dialog_protocol.xml",
+        "res/layout-land/dress_dialog_golds_exchange.xml",
+        "res/layout-land/fragment_migration.xml",
+        "res/layout-land/fragment_mining_store_currency.xml",
+        "res/layout-land/fragment_mining_store_dress.xml"
+      ]
+    },
+    "raw": {
+      "count": 43,
+      "sample": [
+        "res/raw/activeskeleton_draw_sound_raffle.mp3",
+        "res/raw/activeskeleton_draw_sound_result.mp3",
+        "res/raw/activeskeleton_draw_sound_select.mp3",
+        "res/raw/app_ic_star.gif",
+        "res/raw/balloon_draw_sound_grandprize.mp3",
+        "res/raw/base_draw_sound_raffle.mp3",
+        "res/raw/base_draw_sound_result.mp3",
+        "res/raw/base_draw_sound_select.mp3",
+        "res/raw/base_ic_homestead.gif",
+        "res/raw/com_android_billingclient_heterodyne_info",
+        "res/raw/com_android_billingclient_registration_info.binarypb",
+        "res/raw/dressdraw_sound_grandprize.mp3",
+        "res/raw/dressdraw_sound_raffle.mp3",
+        "res/raw/dressdraw_sound_result.mp3",
+        "res/raw/dressdraw_sound_select.mp3",
+        "res/raw/firebase_common_keep.xml",
+        "res/raw/friend_match_style.json",
+        "res/raw/hallo25_audio_1.mp3",
+        "res/raw/hallo25_audio_2.mp3",
+        "res/raw/increment_draw_sound_grandprize.mp3"
+      ]
+    },
+    "mipmap": {
+      "count": 1989,
+      "sample": [
+        "res/mipmap-hdpi-v4/ic_launcher.png",
+        "res/mipmap-hdpi-v4/ic_launcher_round.png",
+        "res/mipmap-mdpi-v4/ic_launcher.png",
+        "res/mipmap-mdpi-v4/ic_launcher_round.png",
+        "res/mipmap-night-xhdpi-v8/app_bg_scrap_path.webp",
+        "res/mipmap-night-xhdpi-v8/app_bg_scrap_path_1.webp",
+        "res/mipmap-night-xhdpi-v8/app_bg_scrap_path_2.webp",
+        "res/mipmap-night-xhdpi-v8/app_bg_scrap_path_3.webp",
+        "res/mipmap-night-xhdpi-v8/app_bg_scrap_path_4.webp",
+        "res/mipmap-night-xhdpi-v8/app_bg_trans_filter.webp",
+        "res/mipmap-night-xhdpi-v8/app_fragment_game_home_placeholder_bottom.webp",
+        "res/mipmap-night-xhdpi-v8/app_fragment_game_home_placeholder_top.webp",
+        "res/mipmap-night-xhdpi-v8/app_fragment_video_detail_like_nor.png",
+        "res/mipmap-night-xhdpi-v8/app_home_a_ic_email.webp",
+        "res/mipmap-night-xhdpi-v8/app_home_a_ic_refresh.webp",
+        "res/mipmap-night-xhdpi-v8/app_home_a_ic_search.webp",
+        "res/mipmap-night-xhdpi-v8/app_ic_activity.webp",
+        "res/mipmap-night-xhdpi-v8/app_ic_ads.webp",
+        "res/mipmap-night-xhdpi-v8/app_ic_dress.webp",
+        "res/mipmap-night-xhdpi-v8/app_ic_game_home_banner_placeholder.webp"
+      ]
+    },
+    "anim": {
+      "count": 146,
+      "sample": [
+        "res/anim-v21/design_bottom_sheet_slide_in.xml",
+        "res/anim-v21/design_bottom_sheet_slide_out.xml",
+        "res/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "res/anim-v21/m3_bottom_sheet_slide_in.xml",
+        "res/anim-v21/m3_bottom_sheet_slide_out.xml",
+        "res/anim-v21/m3_side_sheet_enter_from_left.xml",
+        "res/anim-v21/m3_side_sheet_enter_from_right.xml",
+        "res/anim-v21/m3_side_sheet_exit_to_left.xml",
+        "res/anim-v21/m3_side_sheet_exit_to_right.xml",
+        "res/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "res/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "res/anim/abc_fade_in.xml",
+        "res/anim/abc_fade_out.xml",
+        "res/anim/abc_grow_fade_in_from_bottom.xml",
+        "res/anim/abc_popup_enter.xml",
+        "res/anim/abc_popup_exit.xml",
+        "res/anim/abc_shrink_fade_out_from_bottom.xml",
+        "res/anim/abc_slide_in_bottom.xml",
+        "res/anim/abc_slide_in_top.xml",
+        "res/anim/abc_slide_out_bottom.xml"
+      ]
+    },
+    "color": {
+      "count": 292,
+      "sample": [
+        "res/color-night-v8/material_timepicker_button_stroke.xml",
+        "res/color-night-v8/material_timepicker_clockface.xml",
+        "res/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "res/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "res/color-v23/abc_btn_colored_text_material.xml",
+        "res/color-v23/abc_color_highlight_material.xml",
+        "res/color-v23/abc_tint_btn_checkable.xml",
+        "res/color-v23/abc_tint_default.xml",
+        "res/color-v23/abc_tint_edittext.xml",
+        "res/color-v23/abc_tint_seek_thumb.xml",
+        "res/color-v23/abc_tint_spinner.xml",
+        "res/color-v23/abc_tint_switch_track.xml",
+        "res/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
+        "res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
+        "res/color-v31/m3_dynamic_dark_highlighted_text.xml",
+        "res/color-v31/m3_dynamic_dark_hint_foreground.xml",
+        "res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
+        "res/color-v31/m3_dynamic_default_color_primary_text.xml",
+        "res/color-v31/m3_dynamic_default_color_secondary_text.xml",
+        "res/color-v31/m3_dynamic_highlighted_text.xml"
+      ]
+    },
+    "xml": {
+      "count": 15,
+      "sample": [
+        "res/xml/__picker_provider_paths.xml",
+        "res/xml/alifb_provider_paths.xml",
+        "res/xml/appsflyer_backup_rules.xml",
+        "res/xml/appsflyer_data_extraction_rules.xml",
+        "res/xml/com_android_billingclient_phenotype.xml",
+        "res/xml/debug_panel_file_paths.xml",
+        "res/xml/file_paths.xml",
+        "res/xml/image_share_filepaths.xml",
+        "res/xml/network_security_config.xml",
+        "res/xml/rc_file_path.xml",
+        "res/xml/remote_config_defaults.xml",
+        "res/xml/sandbox_backup_rule.xml",
+        "res/xml/splits0.xml",
+        "res/xml/tp_network_security_config.xml",
+        "res/xml/web_files_public.xml"
+      ]
+    },
+    "other": {
+      "count": 73,
+      "sample": [
+        "res/animator-v21/design_appbar_state_list_animator.xml",
+        "res/animator-v21/m3_appbar_state_list_animator.xml",
+        "res/animator/card_flip_in.xml",
+        "res/animator/card_flip_out.xml",
+        "res/animator/design_fab_hide_motion_spec.xml",
+        "res/animator/design_fab_show_motion_spec.xml",
+        "res/animator/fragment_close_enter.xml",
+        "res/animator/fragment_close_exit.xml",
+        "res/animator/fragment_fade_enter.xml",
+        "res/animator/fragment_fade_exit.xml",
+        "res/animator/fragment_open_enter.xml",
+        "res/animator/fragment_open_exit.xml",
+        "res/animator/m3_btn_elevated_btn_state_list_anim.xml",
+        "res/animator/m3_btn_state_list_anim.xml",
+        "res/animator/m3_card_elevated_state_list_anim.xml",
+        "res/animator/m3_card_state_list_anim.xml",
+        "res/animator/m3_chip_state_list_anim.xml",
+        "res/animator/m3_elevated_chip_state_list_anim.xml",
+        "res/animator/m3_extended_fab_change_size_collapse_motion_spec.xml",
+        "res/animator/m3_extended_fab_change_size_expand_motion_spec.xml"
+      ]
+    }
+  },
+  "images": {
+    "total": 3032,
+    "by_feature": {
+      "icons": {
+        "count": 661,
+        "sample": [
+          "res/drawable/base_ic_round_radio_button_checked_no.png",
+          "res/drawable/base_ic_round_radio_button_checked_ok.png",
+          "res/drawable/bigo_ad_form_icon_back_up.png",
+          "res/drawable/bigo_ad_icon_default_img.png",
+          "res/drawable/bigo_ad_icon_novideo_default.png",
+          "res/drawable/core_icon_close.png",
+          "res/drawable/icon.png",
+          "res/drawable/mbridge_native_advanced_close_icon.png",
+          "res/drawable/profile_btn_contact_blue.png",
+          "res/drawable/profile_btn_contact_blue_hover.png"
+        ]
+      },
+      "avatars": {
+        "count": 27,
+        "sample": [
+          "res/drawable/golden_cube_ic_header.png",
+          "res/drawable-hdpi-v4/mbridge_cm_head.png",
+          "res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png",
+          "res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png",
+          "res/drawable-night-xxhdpi-v8/login_captcha_avatar.png",
+          "res/drawable-xhdpi-v4/decorate_preview_facedec.9.png",
+          "res/drawable-xhdpi-v4/decorate_preview_headwear.9.png",
+          "res/drawable-xhdpi-v4/dress_draw_dialog_dec_header_bg.png",
+          "res/drawable-xhdpi-v4/ic_rank_avatar_box.9.png",
+          "res/drawable-xhdpi-v4/item_ic_avatar_box.9.png"
+        ]
+      },
+      "backgrounds": {
+        "count": 719,
+        "sample": [
+          "res/drawable/app_bg_party_game_mode_name.9.png",
+          "res/drawable/base_bg_party_game_mode_tittle.9.png",
+          "res/drawable/mbridge_arrow_down_white_blackbg.png",
+          "res/drawable/pay_bg_first_charge_tips.9.png",
+          "res/drawable/reward_dialog_top_bg.png",
+          "res/drawable-hdpi-v4/mbridge_splash_ad_right_bottom_corner_en.png",
+          "res/drawable-hdpi-v4/mbridge_splash_ad_right_bottom_corner_zh.png",
+          "res/drawable-hdpi-v4/mbridge_splash_m_circle.png",
+          "res/drawable-hdpi-v4/mbridge_splash_notice.png",
+          "res/drawable-hdpi-v4/mbridge_splash_pop_ad.png"
+        ]
+      },
+      "ui_elements": {
+        "count": 136,
+        "sample": [
+          "res/drawable/bigo_ad_banner_clickguide.png",
+          "res/drawable/bigo_ad_click_guide.png",
+          "res/drawable/bigo_ad_click_guide_landscape.png",
+          "res/drawable/bigo_ad_click_guide_shadow.png",
+          "res/drawable-ldrtl-xhdpi-v17/rc_title_bar_back.png",
+          "res/drawable-night-xxhdpi-v8/game_room_permission_dialog_close.png",
+          "res/drawable-xhdpi-v4/ac_cs_dialog_cancel.png",
+          "res/drawable-xhdpi-v4/app_dialog_like_friend_ic_option_down.png",
+          "res/drawable-xhdpi-v4/app_dialog_like_friend_ic_option_up.png",
+          "res/drawable-xhdpi-v4/app_game_home_newbie_guide_bottom_flag.webp"
+        ]
+      },
+      "game_assets": {
+        "count": 149,
+        "sample": [
+          "res/drawable-night-xxhdpi-v8/game_room_archive_delete.png",
+          "res/drawable-night-xxhdpi-v8/game_room_archive_unselect.png",
+          "res/drawable-night-xxhdpi-v8/game_room_ic_create.png",
+          "res/drawable-night-xxhdpi-v8/game_room_ic_game.png",
+          "res/drawable-night-xxhdpi-v8/game_room_ic_pvp.png",
+          "res/drawable-night-xxhdpi-v8/game_room_ic_social.png",
+          "res/drawable-night-xxhdpi-v8/game_room_language.png",
+          "res/drawable-night-xxhdpi-v8/game_room_nav_back.png",
+          "res/drawable-night-xxhdpi-v8/game_room_permission_group_unchecked.png",
+          "res/drawable-night-xxhdpi-v8/game_room_permission_help.png"
+        ]
+      },
+      "ads": {
+        "count": 218,
+        "sample": [
+          "res/drawable/bigo_ad_arrow_right.png",
+          "res/drawable/bigo_ad_default_base_image.jpg",
+          "res/drawable/bigo_ad_double_video_play.png",
+          "res/drawable/bigo_ad_double_video_small_play.png",
+          "res/drawable/bigo_ad_feeback_arrow_right.png",
+          "res/drawable/bigo_ad_flash.png",
+          "res/drawable/bigo_ad_gift_widget.png",
+          "res/drawable/bigo_ad_heart_widget.png",
+          "res/drawable/bigo_ad_ic_ad_label.png",
+          "res/drawable/bigo_ad_ic_arrow_down.png"
+        ]
+      },
+      "shop": {
+        "count": 17,
+        "sample": [
+          "res/drawable/new_produce_buy.png",
+          "res/drawable-xhdpi-v4/decorate_ic_buy_car.webp",
+          "res/drawable-xhdpi-v4/theme_decorate_buy.9.png",
+          "res/drawable-xhdpi-v4/theme_decorate_buy_new.9.png",
+          "res/drawable-xxhdpi-v4/app_ic_buy_more_point.png",
+          "res/drawable-xxhdpi-v4/christmas25_exchange_shop_divider.9.png",
+          "res/drawable-xxhdpi-v4/halloween_store_arrow.png",
+          "res/drawable-xxhdpi-v4/ic_pass_card_buy_gold.png",
+          "res/drawable-xxhdpi-v4/ic_pass_card_buy_level_decrease.png",
+          "res/drawable-xxhdpi-v4/ic_pass_card_buy_level_increase.png"
+        ]
+      },
+      "clan": {
+        "count": 1,
+        "sample": [
+          "res/drawable-xhdpi-v4/ic_tribe_locker.png"
+        ]
+      },
+      "other": {
+        "count": 1104,
+        "sample": [
+          "res/drawable/app_ic_filter_choose.9.png",
+          "res/drawable/base_web_celebrity_back.png",
+          "res/drawable/base_web_celebrity_rubik_cube.png",
+          "res/drawable/base_web_celebrity_x_mark.png",
+          "res/drawable/base_web_celebrity_x_mark2.png",
+          "res/drawable/ic_index_dashboard1.png",
+          "res/drawable/mbridge_arrow_down_white.png",
+          "res/drawable/mbridge_arrow_up_black.png",
+          "res/drawable/mbridge_arrow_up_white.png",
+          "res/drawable/random_reward_border.9.png"
+        ]
+      }
+    }
+  }
+}

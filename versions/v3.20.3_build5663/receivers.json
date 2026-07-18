@@ -1,0 +1,27 @@
+{
+  "list": [
+    "androidx.profileinstaller.ProfileInstallReceiver",
+    "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
+    "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
+    "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
+    "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
+    "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
+    "androidx.work.impl.background.systemalarm.RescheduleReceiver",
+    "androidx.work.impl.diagnostics.DiagnosticsReceiver",
+    "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
+    "cn.thinkingdata.analytics.utils.broadcast.TDReceiver",
+    "com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver",
+    "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+    "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+    "com.google.android.gms.measurement.AppMeasurementReceiver",
+    "com.google.firebase.iid.FirebaseInstanceIdReceiver",
+    "com.hbisoft.hbrecorder.NotificationReceiver",
+    "com.mbridge.msdk.foundation.same.broadcast.NetWorkChangeReceiver",
+    "com.sandboxol.blockymods.receiver.RongCloudPushMessageReceiver",
+    "com.sandboxol.oversea.utils.TwitterResultReceiver",
+    "io.rong.imlib.ConnectChangeReceiver",
+    "io.rong.imlib.HeartbeatReceiver",
+    "io.rong.push.rongpush.PushReceiver"
+  ],
+  "count": 22
+}

@@ -1,0 +1,32 @@
+{
+  "list": [
+    "androidx.room.MultiInstanceInvalidationService",
+    "androidx.work.impl.background.systemalarm.SystemAlarmService",
+    "androidx.work.impl.background.systemjob.SystemJobService",
+    "androidx.work.impl.foreground.SystemForegroundService",
+    "com.bytedance.boost_multidex.OptimizeService",
+    "com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService",
+    "com.chartboost.sdk.internal.video.repository.exoplayer.VideoRepositoryDownloadService",
+    "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+    "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
+    "com.google.android.gms.ads.AdService",
+    "com.google.android.gms.auth.api.signin.RevocationBoundService",
+    "com.google.android.gms.measurement.AppMeasurementJobService",
+    "com.google.android.gms.measurement.AppMeasurementService",
+    "com.google.firebase.components.ComponentDiscoveryService",
+    "com.google.firebase.messaging.FirebaseMessagingService",
+    "com.hbisoft.hbrecorder.ScreenRecordService",
+    "com.sandboxol.blocky.service.GameRunningService",
+    "com.sandboxol.blocky.service.GameService",
+    "com.sandboxol.blocky.service.McProcessChangeDataService",
+    "com.sandboxol.blockymods.download.service.DownloadService",
+    "com.sandboxol.center.download.service.DownloadService",
+    "com.sandboxol.imchat.server.SandboxFirebaseMessagingService",
+    "com.sandboxol.messager.MessengerService",
+    "com.twitter.sdk.android.tweetcomposer.TweetUploadService",
+    "io.appmetrica.analytics.internal.AppMetricaService",
+    "io.rong.imlib.ipc.RongService",
+    "io.rong.push.rongpush.PushService"
+  ],
+  "count": 27
+}

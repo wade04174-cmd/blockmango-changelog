@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "component": "com.sandboxol.blockymods.view.activity.host.HostActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.VIEW",
+          "com.sandboxol.blockymods.LAUNCHER",
+          "test.sandboxol.blockymods.LAUNCHER",
+          "com.sandboxol.indiegame.g2052.LAUNCHER",
+          "com.sandboxol.blockymods.channel.official.LAUNCHER",
+          "com.sandboxol.blockymods.HOST_AUTH_CODE_LOGIN"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT",
+          "android.intent.category.BROWSABLE"
+        ],
+        "data": [
+          {
+            "scheme": "blockmango",
+            "host": "blockymods.sandboxol.com",
+            "pathPrefix": "/android/ads"
+          },
+          {
+            "scheme": "https",
+            "host": "blockman-go.onelink.me"
+          },
+          {
+            "scheme": "blockmango",
+            "host": "com.sandboxol.blockymods",
+            "pathPrefix": "/android/page"
+          },
+          {
+            "scheme": "from-bedwars"
+          }
+        ]
+      }
+    },
+    {
+      "component": "com.facebook.CustomTabActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.VIEW"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT",
+          "android.intent.category.BROWSABLE"
+        ],
+        "data": [
+          {
+            "scheme": "fb290796731324488"
+          },
+          {
+            "scheme": "fbconnect",
+            "host": "cct.com.sandboxol.blockymods"
+          }
+        ]
+      }
+    },
+    {
+      "component": "io.rong.imkit.activity.FilePreviewActivity",
+      "type": "activity",
+      "filters": {
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    },
+    {
+      "component": "io.rong.imkit.activity.PicturePagerActivity",
+      "type": "activity",
+      "filters": {
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.imchat.ui.acitivity.ConversationActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.VIEW"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ],
+        "data": [
+          {
+            "scheme": "rong",
+            "host": "com.sandboxol.blockymods",
+            "pathPrefix": "/conversation/"
+          }
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.videosubmit.view.activity.VideoSubmitActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "com.sandboxol.blockymods.videosubmit"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.wheellucky.activity.wheel.WheelActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "com.sandboxol.blockymods.wheel"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.center.view.activity.webview.WebViewActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.VIEW"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT",
+          "android.intent.category.BROWSABLE"
+        ],
+        "data": [
+          {
+            "scheme": "https"
+          }
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.imchat.ui.acitivity.ConversationPartyActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.VIEW"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ],
+        "data": [
+          {
+            "scheme": "rong",
+            "host": "com.sandboxol.blockymods",
+            "pathPrefix": "/party/"
+          }
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.blockymods.view.activity.flash.SplashActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.MAIN"
+        ],
+        "category": [
+          "android.intent.category.LAUNCHER"
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.jackpot.view.activity.JackpotActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "com.sandboxol.blockymods.jackpot"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.blockymods.view.activity.pidProxy.PidProxyActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "com.sandboxol.transparent.proxy"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT",
+          "show.transparent.pid"
+        ]
+      }
+    },
+    {
+      "component": "com.sandboxol.login.view.activity.login.LoginActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "com.sandboxol.blockymods.LOGIN_AUTH_CODE_LOGIN"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    },
+    {
+      "component": "io.rong.push.notification.RongBridgeActivity",
+      "type": "activity",
+      "filters": {
+        "action": [
+          "android.intent.action.VIEW",
+          "io.rong.push.notification.RongBridgeActivity"
+        ],
+        "category": [
+          "android.intent.category.DEFAULT"
+        ]
+      }
+    }
+  ],
+  "count": 14
+}

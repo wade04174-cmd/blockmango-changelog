@@ -1,0 +1,30 @@
+{
+  "list": [
+    "androidx.core.content.FileProvider",
+    "com.alibaba.sdk.android.feedback.util.FBFileProvider",
+    "com.facebook.FacebookContentProvider",
+    "com.facebook.ads.AudienceNetworkContentProvider",
+    "com.google.android.gms.ads.MobileAdsInitProvider",
+    "com.ironsource.lifecycle.IronsourceLifecycleProvider",
+    "com.ironsource.lifecycle.LevelPlayActivityLifecycleProvider",
+    "com.just.agentweb.AgentWebFileProvider",
+    "com.mbridge.msdk.config.component.status.MBComponentLifecycleProvider",
+    "com.sandboxol.blockymods.ThirtyPartInitializeProvider",
+    "com.sandboxol.center.provider.SandboxDataProvider",
+    "com.squareup.picasso.PicassoProvider",
+    "com.tencent.rmonitor.launch.AppLaunchMonitorInstaller",
+    "com.yandex.mobile.ads.core.initializer.MobileAdsInitializeProvider",
+    "com.yandex.mobile.ads.features.debugpanel.data.local.DebugPanelFileProvider",
+    "io.appmetrica.analytics.internal.PreloadInfoContentProvider",
+    "io.rong.imkit.picture.PictureFileProvider",
+    "io.rong.imlib.chatroom.base.ChatRoomContentProvider",
+    "io.rong.imlib.cs.base.CustomServiceContentProvider",
+    "io.rong.imlib.discussion.base.DiscussionContentProvider",
+    "io.rong.imlib.location.base.LocationContentProvider",
+    "io.rong.imlib.publicservice.base.PublicServiceContentProvider",
+    "me.iwf.photopicker.utils.PhotoFileProvider",
+    "sg.bigo.ads.controller.provider.BigoAdsProvider",
+    "zlc.season.claritypotion.ClarityPotion"
+  ],
+  "count": 25
+}

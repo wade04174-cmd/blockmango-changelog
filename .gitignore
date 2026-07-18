@@ -8,8 +8,14 @@ __pycache__/
 dist/
 build/
 
-# Version snapshots (large JSON)
-versions/*/full_scan.json
+# Scanner tooling (private — outputs are committed, tool is not)
+changelog/scanner.py
+changelog/scanner_ext.py
+changelog/diff_engine.py
+changelog/compare_apk.py
+changelog/track_versions.py
+
+# Archives (large binaries)
 archives/*.zip
 
 # Binaries
@@ -21,3 +27,5 @@ archives/*.zip
 # OS
 .DS_Store
 Thumbs.db
+
+# NOTE: versions/**/*.json is NOT ignored — the JSON files ARE the content

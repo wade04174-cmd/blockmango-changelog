@@ -1,0 +1,146 @@
+{
+  "class_count": 103396,
+  "packages": {
+    "Ljava/lang/Object;->Lcom/google/android/gms/internal/ads": 5183,
+    "Ljava/lang/Object;->Lyads": 3548,
+    "Ljava/lang/Object;->Lcom/yandex/div2": 1826,
+    "Ljava/lang/Object;->Lio/rong/imlib": 1724,
+    "Ljava/lang/Object;->Lcom/ironsource": 1401,
+    "Lkotlin/jvm/internal/Lambda;->Lcom/yandex/div2": 1222,
+    "Ljava/lang/Object;->Lio/appmetrica/analytics/impl": 1065,
+    "Ljava/lang/Object;->Lcom/inmobi/media": 1051,
+    "Ljava/lang/Object;->Lcom/ironsource/adqualitysdk/sdk/i": 679,
+    "Ljava/lang/Object;->Lcom/tencent/bugly/proguard": 652,
+    "Ljava/lang/Object;->Lcom/chartboost/sdk/impl": 623,
+    "Ljava/lang/Object;->Lcom/sandboxol/center/entity": 416,
+    "Landroidx/databinding/ViewDataBinding;->Lcom/sandboxol/blockymods/databinding": 415,
+    "Ljava/lang/Object;->Lcn/rongcloud/rtc/core": 314,
+    "Ljava/lang/Object;->Lrx/internal/operators": 292,
+    "Ljava/lang/Object;->Lcom/sandboxol/blockmango": 289,
+    "Ljava/lang/Object;->Lcom/google/android/gms/internal/measurement": 287,
+    "Lkotlin/jvm/internal/Lambda;->Lcom/chartboost/sdk/impl": 279,
+    "Ljava/lang/Object;->Lcom/google/android/gms/measurement/internal": 278,
+    "Ljava/lang/Object;->Lcom/appsflyer/internal": 277,
+    "Ljava/lang/Object;->Lcom/google/android/gms/internal/consent_sdk": 273,
+    "Lkotlin/coroutines/jvm/internal/SuspendLambda;->Lcom/inmobi/media": 273,
+    "Ljava/lang/Object;->Lcom/sandboxol/center/web": 229,
+    "Ljava/lang/Object;->Lcom/sandboxol/holidayscore/ui": 215,
+    "Ljava/lang/Object;->Lcom/sandboxol/center/utils": 214,
+    "Ljava/lang/Object;->Lcom/sandboxol/blockymods/view/activity/host/pages/home": 208,
+    "Lcom/google/android/gms/internal/ads/zzidd;->Lcom/google/android/gms/internal/ads": 200,
+    "Ljava/lang/Object;->Lcom/tencent/turingfd/sdk/antibot_oversea": 199,
+    "Lcom/google/android/gms/internal/ads/zzicx;->Lcom/google/android/gms/internal/ads": 199,
+    "Ljava/lang/Object;->Lcom/google/android/exoplayer2": 198,
+    "Ljava/lang/Object;->Landroidx/compose/ui/platform": 197,
+    "Ljava/lang/Object;->Lcom/sandboxol/blockymods/view/activity/host": 195,
+    "Ljava/lang/Object;->Lio/rong/imlib/model": 194,
+    "Ljava/lang/Object;->Landroidx/core/view": 180,
+    "Ljava/lang/Object;->Lcom/android/billingclient/api": 178,
+    "Lkotlin/jvm/internal/Lambda;->Lyads": 177,
+    "Ljava/lang/Object;->Lcom/google/common/collect": 173,
+    "Ljava/lang/Object;->Lcom/alibaba/android/arouter/routes": 172,
+    "Ljava/lang/Object;->Lcom/google/android/gms/internal/play_billing": 168,
+    "Ljava/lang/Object;->Landroidx/compose/ui/graphics": 168,
+    "Ljava/lang/Object;->Landroidx/media3/exoplayer": 168,
+    "Lkotlin/jvm/internal/Lambda;->Lcom/yandex/div/core/view2/divs": 164,
+    "Ljava/lang/Object;->Lcom/sandboxol/blockymods/web": 160,
+    "Ljava/lang/Object;->Landroidx/compose/runtime": 158,
+    "Ljava/lang/Object;->Lcom/sandboxol/gameroom/ui/activity": 158,
+    "Lcom/yandex/div/evaluable/Function;->Lcom/yandex/div/evaluable/function": 156,
+    "Lcom/ironsource/adqualitysdk/sdk/i/ir;->Lcom/ironsource/adqualitysdk/sdk/i": 154,
+    "Ljava/lang/Object;->Lcom/sandboxol/blockymods/view/dialog": 151,
+    "Ljava/lang/Object;->Lkotlinx/coroutines/flow": 150,
+    "Ljava/lang/Object;->Lcom/ironsource/sdk/controller": 146
+  },
+  "top_packages": [
+    {
+      "package": "Ljava/lang/Object;->Lcom/google/android/gms/internal/ads",
+      "count": 5183
+    },
+    {
+      "package": "Ljava/lang/Object;->Lyads",
+      "count": 3548
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/yandex/div2",
+      "count": 1826
+    },
+    {
+      "package": "Ljava/lang/Object;->Lio/rong/imlib",
+      "count": 1724
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/ironsource",
+      "count": 1401
+    },
+    {
+      "package": "Lkotlin/jvm/internal/Lambda;->Lcom/yandex/div2",
+      "count": 1222
+    },
+    {
+      "package": "Ljava/lang/Object;->Lio/appmetrica/analytics/impl",
+      "count": 1065
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/inmobi/media",
+      "count": 1051
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/ironsource/adqualitysdk/sdk/i",
+      "count": 679
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/tencent/bugly/proguard",
+      "count": 652
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/chartboost/sdk/impl",
+      "count": 623
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/sandboxol/center/entity",
+      "count": 416
+    },
+    {
+      "package": "Landroidx/databinding/ViewDataBinding;->Lcom/sandboxol/blockymods/databinding",
+      "count": 415
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcn/rongcloud/rtc/core",
+      "count": 314
+    },
+    {
+      "package": "Ljava/lang/Object;->Lrx/internal/operators",
+      "count": 292
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/sandboxol/blockmango",
+      "count": 289
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/google/android/gms/internal/measurement",
+      "count": 287
+    },
+    {
+      "package": "Lkotlin/jvm/internal/Lambda;->Lcom/chartboost/sdk/impl",
+      "count": 279
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/google/android/gms/measurement/internal",
+      "count": 278
+    },
+    {
+      "package": "Ljava/lang/Object;->Lcom/appsflyer/internal",
+      "count": 277
+    }
+  ],
+  "by_module": {
+    "blockmango": 5190,
+    "sandboxol": 15763,
+    "ads_sdk": 15489,
+    "cloud_messaging": 8730,
+    "huawei": 4,
+    "tencent": 1790,
+    "other": 56430
+  }
+}
