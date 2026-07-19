@@ -1,6 +1,6 @@
 # BlockmanGO Changelog Tracker
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/bVgjq6)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/bVgjnJAkq6)
 
 Reverse-engineered APK version tracking for [BlockmanGO](https://play.google.com/store/apps/details?id=com.sandboxol.blockymods) (`com.sandboxol.blockymods`). Structured JSON data extracted from every version — 22 categories, machine-readable, diffable.
 
